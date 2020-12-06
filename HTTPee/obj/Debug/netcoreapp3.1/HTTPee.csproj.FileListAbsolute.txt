@@ -1,0 +1,13 @@
+C:\Users\PJ\source\repos\HTTPee\HTTPee\bin\Debug\netcoreapp3.1\HTTPee.exe
+C:\Users\PJ\source\repos\HTTPee\HTTPee\bin\Debug\netcoreapp3.1\HTTPee.deps.json
+C:\Users\PJ\source\repos\HTTPee\HTTPee\bin\Debug\netcoreapp3.1\HTTPee.runtimeconfig.json
+C:\Users\PJ\source\repos\HTTPee\HTTPee\bin\Debug\netcoreapp3.1\HTTPee.runtimeconfig.dev.json
+C:\Users\PJ\source\repos\HTTPee\HTTPee\bin\Debug\netcoreapp3.1\HTTPee.dll
+C:\Users\PJ\source\repos\HTTPee\HTTPee\bin\Debug\netcoreapp3.1\HTTPee.pdb
+C:\Users\PJ\source\repos\HTTPee\HTTPee\obj\Debug\netcoreapp3.1\HTTPee.csprojAssemblyReference.cache
+C:\Users\PJ\source\repos\HTTPee\HTTPee\obj\Debug\netcoreapp3.1\HTTPee.AssemblyInfoInputs.cache
+C:\Users\PJ\source\repos\HTTPee\HTTPee\obj\Debug\netcoreapp3.1\HTTPee.AssemblyInfo.cs
+C:\Users\PJ\source\repos\HTTPee\HTTPee\obj\Debug\netcoreapp3.1\HTTPee.csproj.CoreCompileInputs.cache
+C:\Users\PJ\source\repos\HTTPee\HTTPee\obj\Debug\netcoreapp3.1\HTTPee.dll
+C:\Users\PJ\source\repos\HTTPee\HTTPee\obj\Debug\netcoreapp3.1\HTTPee.pdb
+C:\Users\PJ\source\repos\HTTPee\HTTPee\obj\Debug\netcoreapp3.1\HTTPee.genruntimeconfig.cache
